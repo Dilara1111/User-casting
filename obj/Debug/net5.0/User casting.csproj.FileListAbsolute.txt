@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\bin\Debug\net5.0\User casting.exe
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\bin\Debug\net5.0\User casting.deps.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\bin\Debug\net5.0\User casting.runtimeconfig.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\bin\Debug\net5.0\User casting.runtimeconfig.dev.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\bin\Debug\net5.0\User casting.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\bin\Debug\net5.0\User casting.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\refint\User casting.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\User casting.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\User casting\obj\Debug\net5.0\ref\User casting.dll
